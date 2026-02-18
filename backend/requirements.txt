@@ -1,0 +1,7 @@
+flask
+flask-sqlalchemy
+flask-cors
+pydantic[email]
+python-dotenv
+pytest
+pytest-flask
